@@ -1,6 +1,6 @@
 # ✈AdminPage_GroupAirTeamProject✈
 
-<div style="align:center">
+<div style="text-align: center;">
   
 ![logo](https://github.com/1thsdpdms1/SecondProject_AdminPage_Yeeun/assets/154856610/5671a780-5c03-4535-b0cf-70fe00d0d1e2)
 
