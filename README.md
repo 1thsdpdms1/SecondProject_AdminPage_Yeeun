@@ -1,5 +1,8 @@
 # ✈AdminPage_GroupAirTeamProject✈
 
+<div style="align:center">
+![logo](https://github.com/1thsdpdms1/SecondProject_AdminPage_Yeeun/assets/154856610/5671a780-5c03-4535-b0cf-70fe00d0d1e2)
+
 <br>
 GroupAir 항공사 관리자 페이지로 <br>
 이해하기 쉬운 UI와 부서 간의 의사소통이 원할하도록한 커뮤니티<br>
@@ -10,7 +13,7 @@ GroupAir 항공사 관리자 페이지로 <br>
 
 영화API, 날씨 API, 버스API를 사용하여 사용자의 편의성도 높여보았습니다
 
-
+</div>
 ## 📌 목차
 
 * [🔎프로젝트 소개](#프로젝트-소개)
