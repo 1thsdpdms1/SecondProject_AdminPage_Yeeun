@@ -1,6 +1,6 @@
 # ✈AdminPage_GroupAirTeamProject✈
 
-<div style="text-align: center;">
+
   
     <img src="https://github.com/1thsdpdms1/SecondProject_AdminPage_Yeeun/assets/154856610/5671a780-5c03-4535-b0cf-70fe00d0d1e2" alt="logo">
     <br>
@@ -12,7 +12,7 @@
     부서관리, 결제관리, 일정관리, 근태관리, 급여관리, 사원관리 등등 관리프로그램
     <br><br>
     영화API, 날씨 API, 버스API를 사용하여 사용자의 편의성도 높여보았습니다.
-</div>
+
 ## 📌 목차
 
 * [🔎프로젝트 소개](#프로젝트-소개)
