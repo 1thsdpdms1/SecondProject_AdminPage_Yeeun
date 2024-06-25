@@ -1,17 +1,16 @@
 # ✈AdminPage_GroupAirTeamProject✈
 
+<div style="text-align:center">
+<br>
+GroupAir 항공사 관리자 페이지로 <br>
+이해하기 쉬운 UI와 부서 간의 의사소통이 원할하도록한 커뮤니티<br>
+또한 권한에 따라 관여할수있는 부분 제한하였습니다
 
-  
-    <img src="https://github.com/1thsdpdms1/SecondProject_AdminPage_Yeeun/assets/154856610/5671a780-5c03-4535-b0cf-70fe00d0d1e2" alt="logo">
-    <br>
-    GroupAir 항공사 관리자 페이지로 <br>
-    이해하기 쉬운 UI와 부서 간의 의사소통이 원할하도록한 커뮤니티<br>
-    또한 권한에 따라 관여할수있는 부분 제한하였습니다.
-    <br><br>
-    사원, 부장, 대표이사 권한으로 나뉘어져있으며 <br>
-    부서관리, 결제관리, 일정관리, 근태관리, 급여관리, 사원관리 등등 관리프로그램
-    <br><br>
-    영화API, 날씨 API, 버스API를 사용하여 사용자의 편의성도 높여보았습니다.
+사원, 부장, 대표이사 권한으로 나뉘어져있으며 <br>
+부서관리, 결제관리, 일정관리, 근태관리, 급여관리, 사원관리 등등 관리프로그램
+
+영화API, 날씨 API, 버스API를 사용하여 사용자의 편의성도 높여보았습니다
+</div>
 
 ## 📌 목차
 
