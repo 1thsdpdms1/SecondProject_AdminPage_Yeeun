@@ -1,6 +1,9 @@
 # ✈AdminPage_GroupAirTeamProject✈
 
-<div style="text-align:center">
+<div style="text-align: center;">
+
+  ![logo](https://github.com/1thsdpdms1/SecondProject_AdminPage_Yeeun/assets/154856610/26c1d58c-949b-4250-887a-1e22df8a065d)
+
 <br>
 GroupAir 항공사 관리자 페이지로 <br>
 이해하기 쉬운 UI와 부서 간의 의사소통이 원할하도록한 커뮤니티<br>
