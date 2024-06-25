@@ -39,20 +39,12 @@ GroupAir 항공사 관리자 페이지로 <br>
 |------|---|
 |일정|2024/05/11~2024/06/07|
 |인원|팀장 1명, 팀원 4명 (총 5인) _팀장으로 참여|
-|주제|항공 관리자 페이지|
-
-
-
-  
-<li> 2024/05/11~2024/06/07 </li>
-<li> 항공 관리자 페이지 </li>
-<li> 팀장 1명, 팀원 4명 (총 5인) _팀장으로 참여 </li>
-<li> 프로젝트명 : GroupAir TeamProject </li>
-<li> 프로그래밍 언어 : JAVA </li>
-<li> 프레임워크 : Springboot 2.7.11 </li>
-<li> 데이터베이스 : MySql8 </li>
-<li> 개발툴 : IntelliJ </li>
-<li> 템플릿 엔진 : Thymeleaf (HTML + css) </li>
+|프로젝트명| GroupAir TeamProject|
+|프로그래밍 언어|JAVA|
+|프레임워크|Springboot 2.7.11|
+|데이터베이스|MySql8|
+|개발툴| IntelliJ|
+|템플릿 엔진|Thymeleaf (HTML + css)|
 </details>
 
 <details>
